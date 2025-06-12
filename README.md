@@ -16,7 +16,7 @@ Today’s project was an interactive Loan Payment Calculator built entirely in E
 
 I also added a pie chart to visually break down the Principal vs. Interest, offering a clear look at how much you really end up paying over time.
 
-📂 Files on GitHub: 🔗 https://github.com/elem86/day24
+📂 Files on GitHub: 🔗 https://github.com/elem86/day25
 
 📸 Screenshot below ⬇️
 
